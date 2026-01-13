@@ -2,5 +2,5 @@
     "provider_name": "payme",
     "version": "1.0.0",
     "framework": "django",
-    "download_url": "https://github.com/abrorbekuz/paykit-packages/releases/download/testing/django-payme-latest.tar.gz",
+    "download_url": "https://github.com/abrorbekuz/paykit-packages/releases/download/testing/django-payme-latest.tar.gz"
 }
