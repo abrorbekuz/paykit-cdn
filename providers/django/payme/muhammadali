@@ -1,0 +1,6 @@
+{
+    "provider_name": "payme",
+    "version": "muhammadali",
+    "framework": "django",
+    "download_url": "https://github.com/abrorbekuz/paykit-packages/releases/download/testing/django-payme-muhammadali.tar.gz"
+}
